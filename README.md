@@ -1,5 +1,5 @@
 # Ultimate Productivity System
-	**Normal Users can just rely on our inbuilt solution to 3rd party plugins tight and controlled! Pro Users can Leverage the full Power of the 3rd party plugins without conflicts, AI is NOT ruled out since it only would help in the starting stages of designing the workflow and code generations but we need 100% success rate depends...**
+**Normal Users can just rely on our inbuilt solution to 3rd party plugins tight and controlled! Pro Users can Leverage the full Power of the 3rd party plugins without conflicts, AI is NOT ruled out since it only would help in the starting stages of designing the workflow and code generations but we need 100% success rate depends...**
 	1. Ikea Effect
  		1. Straigt fwd questions to create workflow maybe 10-20 Max
 		2. Ikea effect for the Dashboard(s) Setup, (AI can be inluded if it helps with code)
