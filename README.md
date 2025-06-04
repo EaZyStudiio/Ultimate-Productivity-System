@@ -1,3 +1,69 @@
+# Ultimate Productivity System
+	**Normal Users can just rely on our inbuilt solution to 3rd party plugins tight and controlled! Pro Users can Leverage the full Power of the 3rd party plugins without conflicts, AI is NOT ruled out since it only would help in the starting stages of designing the workflow and code generations but we need 100% success rate depends...**
+	1. Ikea Effect
+ 		1. Straigt fwd questions to create workflow maybe 10-20 Max
+		2. Ikea effect for the Dashboard(s) Setup, (AI can be inluded if it helps with code)
+  		3. 2 relies heavily on 1 which wold determine if AI produces a good enough advantge to be involved we'll see
+	2. Pro Users
+		1. Must Rely on 3rd party plugins
+	3. Just Give me a darn Dashboard & Workflow Users
+	4. Quick Start Basically A walkthrough Getstarted solution, with questions going through all parts to draft an excalidraw Diagram with how their workflow WOULD WORK + a little ai magic to extend or simplify it... depends and maybe AI naming.
+	5. Privacy and LOcal first
+	6. Sync Support even if that means splitting to 2 plugins
+
+# 3rd party Plugins to be used 
+
+### Datacore,Dataview,Bases in that order Plugin uses what's available
+### Templater
+### QuickAdd
+
+### Some Tasks Solutions here will interfare with QOL Features "WHich are more advanced than here" So we Use QOL own if it's available "Or Give user the option if detected"
+
+# Recommeded plugins
+
+### QOL Features
+### Excalidraw for hybrid notes (.md and .excalidraw.md are available)
+
+
+# CSS QOL bonus
+
+### I donno if this is a good idea butt.. maybe give users tips with custom css snippets they can use maybe
+### Autocomplete files could help too
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
